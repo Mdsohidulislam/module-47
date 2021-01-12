@@ -1,0 +1,32 @@
+step 1=====>>> command npm init
+step 1=====>>> q  ans command entry point => index.js or your dream
+step 1=====>>> npm install express --save and read all document of expressjs.com
+step 1=====>>> create entryPoint index.js or your dream server file.
+step 1=====>>>video 2 
+
+const express =require('express');
+const app =express();
+
+app.get('/',(req,res)=>{res.send('<h1>Hello world</h1>')})
+
+
+
+app.listen(3000,()=>{console.log('port is running on 3000');})
+
+
+
+step 1===== video 3>>> how to publish my projects on github .  1 first command=> git init ==>> 2nd create .gitignore file in your projects folder and her inner command holo ==>> amra je file ignore korbo example node_modules
+
+
+step 1=====>>> 
+step 1=====>>> 
+step 1=====>>> 
+step 1=====>>> 
+step 1=====>>> 
+step 1=====>>> 
+step 1=====>>> 
+step 1=====>>> 
+step 1=====>>> 
+step 1=====>>> 
+step 1=====>>> 
+step 1=====>>> 
